@@ -3,7 +3,9 @@
 Yellow Pages Scraper: A Python tool to extract business information from Yellow Pages, offering command-line and Streamlit interfaces for seamless data retrieval."
 
 🌐 **Live Demo:** [Yellow Pages Scraper Streamlit](https://yp-scraper.streamlit.app/)
-[YP Scraper](https://github.com/adil6572/YP-business-scraper/blob/main/streamlit-app.png)
+
+![YP Scraper](https://github.com/adil6572/YP-business-scraper/blob/main/streamlit-app.png)
+
 
 ## Table of Contents
 
