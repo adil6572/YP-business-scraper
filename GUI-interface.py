@@ -4,6 +4,7 @@ from yellow_page_scraper import YellowPageScraper
 
 def main():
     st.title('Yellow Page Listing Scraper')
+    st.markdown("🌐[Yellow Page website](https://www.yellowpages.com/)")
     st.image('yp-website.png')
 
     search_terms = st.text_input('Enter search terms:')
